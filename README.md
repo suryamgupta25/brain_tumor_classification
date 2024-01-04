@@ -1,4 +1,4 @@
-# brain_tumor_classification
+# Brain Tumor Classification Project
 
 With the amount of MRI scans doctors have to examine each day, it would be ideal if there is a way for such images to be identified automatically by some computer program in order to save time during analysis. However, as healthcare is a sensitive field and patients' lives are at risk, such classifications must be accurate in order for patients to receive the correct diagnosis and treatment.
 
