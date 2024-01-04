@@ -14,7 +14,7 @@ Portion of dataset for each image classification:
 As there is a relatively equal amount of data for each classification, this dataset was an ideal option.
 
 
-Model train time: 8 minutes, 31 seconds (2 CNN layers, 4 Linear layers)
+Model train time: 8 minutes, 31 seconds (2 CNN layers, 4 Linear layers) \newline
 Number of parameters: 53,031,092
-Training accuracy: 100%
+Training accuracy: 99.26%
 Testing accuracy: 95.80%
