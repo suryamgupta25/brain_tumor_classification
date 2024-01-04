@@ -11,6 +11,7 @@ Portion of dataset for each image classification:
 - Meningioma: 1645 images (1339 training, 306 testing)
 - Pituitary: 1757 images (1457 training, 300 testing)
 - No tumor: 2000 images (1595 training, 405 testing)
+- 
 As there is a relatively equal amount of data for each classification, this dataset was an ideal option.
 
 
